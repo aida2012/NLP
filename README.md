@@ -49,9 +49,20 @@ Notebook: [Custum embedding con Gensim](https://github.com/aida2012/NLP/blob/mas
 Notebook: [Predicción de próxima palabra](https://github.com/aida2012/NLP/blob/master/desafio4_AidaBenito.ipynb)
 
 
-## Sentiment analysis con Embeddings + LSTM
+## Long short term memory
+* LSTM approach
+* Gated Recurrent Units (GRU)
+* Sentiment analysis
+* Embeddings + LSTM + Classifier
+
 Note book: [Sentiment analysis con Embeddings + LSTM](https://github.com/aida2012/NLP/blob/master/desafio5_AidaBenito.ipynb)
 
 
-## LSTM Bot Question and Answers
+## Sequence to Sequence
+* many-to-many
+* Seq2Seq con encoder-decoder
+* LSTM encoder-decoder
+* Traductor Seq2Seq
+* Question and answers (QA) ~ Bot
+
 Notebook: [LSTM Bot QA](https://github.com/aida2012/NLP/blob/master/desafio6_AidaBenito.ipynb)
