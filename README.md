@@ -6,10 +6,11 @@
 * Bag of Words
 * TF-IDF
 * Similitud coseno  
+
 Notebook: [Vectorización de documentos](https://github.com/aida2012/NLP/blob/master/desafio1_AidaBenito.ipynb)
 
 
-## Preprocesamiento de texto - Librerías de NLP - Bots de información
+## Preprocesamiento de texto 
 * Tokenización
 * Derivado (Steeming)
 * Lematización (Lemmatization)
@@ -17,11 +18,12 @@ Notebook: [Vectorización de documentos](https://github.com/aida2012/NLP/blob/ma
 * Named entity recognition (MER)
 * Stop words
 * Librerías de NLP: NLTK - spaCy
-* Bots lingüísticos  
+* Bots lingüísticos
+
 Notebook: [Bot de consulta abierta y respuestas predeterminadas con DNN + Spacy](https://github.com/aida2012/NLP/blob/master/desafio2_AidaBenito.ipynb)
 
 
-## Word Embeddings - Continuos bag of words y Skip Gram - Entrenamiento de embeddings
+## Word Embeddings
 * Word embeddings
 * N-GRAM
 * Glove y fastText
@@ -29,11 +31,21 @@ Notebook: [Bot de consulta abierta y respuestas predeterminadas con DNN + Spacy]
 * Skip Gram
 * Negative Sampling
 * t-distributed stochastic neighbor embedding (t-SNE)
-* Librería Gensim: Doc2Vec paragraph embeddings  
+* Librería Gensim: Doc2Vec paragraph embeddings
+
 Notebook: [Custum embedding con Gensim](https://github.com/aida2012/NLP/blob/master/desafio3_AidaBenito.ipynb)
 
 
-## Predicción de próxima palabra
+## Redes neuronales recurrentes
+* Celda RNN básica (Elman)
+* Multi-layer RNN
+* Bidirectional RNN (BRNN)
+* many-to-one
+* Predicción de texto/modelos de lenguaje
+* Generación de texto en modelos de lenguaje: Beam search
+* Generación de texto en modelos de lenguaje: Muestreo con temperatura
+* Text prediction
+
 Notebook: [Predicción de próxima palabra](https://github.com/aida2012/NLP/blob/master/desafio4_AidaBenito.ipynb)
 
 
