@@ -5,7 +5,7 @@
 * One hot encoding
 * Bag of Words
 * TF-IDF
-* Similitud coseno
+* Similitud coseno  
 Notebook: [Vectorización de documentos](https://github.com/aida2012/NLP/blob/master/desafio1_AidaBenito.ipynb)
 
 
@@ -17,7 +17,7 @@ Notebook: [Vectorización de documentos](https://github.com/aida2012/NLP/blob/ma
 * Named entity recognition (MER)
 * Stop words
 * Librerías de NLP: NLTK - spaCy
-* Bots lingüísticos
+* Bots lingüísticos  
 Notebook: [Bot de consulta abierta y respuestas predeterminadas con DNN + Spacy](https://github.com/aida2012/NLP/blob/master/desafio2_AidaBenito.ipynb)
 
 
@@ -29,7 +29,7 @@ Notebook: [Bot de consulta abierta y respuestas predeterminadas con DNN + Spacy]
 * Skip Gram
 * Negative Sampling
 * t-distributed stochastic neighbor embedding (t-SNE)
-* Librería Gensim: Doc2Vec paragraph embeddings
+* Librería Gensim: Doc2Vec paragraph embeddings  
 Notebook: [Custum embedding con Gensim](https://github.com/aida2012/NLP/blob/master/desafio3_AidaBenito.ipynb)
 
 
