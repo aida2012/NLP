@@ -8,7 +8,7 @@
 * TF-IDF
 * Similitud coseno  
 
-<img src="https://github.com/aida2012/NLP/blob/master/images%20readme/Desafio%201%20-%20vectorizacion%20de%20documentos.png" width="150" height="100"/>  
+<img src="https://github.com/aida2012/NLP/blob/master/images%20readme/Desafio%201%20-%20vectorizacion%20de%20documentos.png" width="200" height="150"/>  
 
 Notebook: [Vectorización de documentos](https://github.com/aida2012/NLP/blob/master/desafio1_AidaBenito.ipynb)
 
@@ -39,7 +39,7 @@ Notebook: [Bot de consulta abierta y respuestas predeterminadas con DNN + Spacy]
 * Librería Gensim: Doc2Vec paragraph embeddings
 
 
-<img src="https://github.com/aida2012/NLP/blob/master/images%20readme/Desafio%203%20-%20word%20embedding.png" width="150" height="100"/>  
+<img src="https://github.com/aida2012/NLP/blob/master/images%20readme/Desafio%203%20-%20word%20embedding.png" width="100" height="100"/>  
 
 Notebook: [Custum embedding con Gensim](https://github.com/aida2012/NLP/blob/master/desafio3_AidaBenito.ipynb)
 
